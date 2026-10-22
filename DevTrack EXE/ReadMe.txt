@@ -1,0 +1,2 @@
+- Setup Database using DevTrack_Queries.sql
+- Do not change any file's path
